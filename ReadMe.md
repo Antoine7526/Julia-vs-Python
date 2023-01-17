@@ -1,6 +1,6 @@
 # Comparaison Julia, Python et R sur les CNN (Convutionnal Neural Network)
 
-<div style="text-align:justify;"> 
+<p style="text-align:justify;"> 
 
 ## Contexte du projet :
 Nous avons voulu confectionner un algorithme nous permettant de faire de la classification d'images.
@@ -15,7 +15,9 @@ que sur Python.
 
 Il est important de préciser que dans les deux langages, il y a de nombreux packages permettant d'effectuer cette tâche. 
 Étant donné nos connaissances sur ```Keras``` et ```Tensorflow```, nous avons choisi de travailler avec le package 
-le plus ressemblant sur ```Julia```, à savoir ```Flux```.
+le plus ressemblant sur ```Julia```, à savoir ```Flux```.  
+Nous tenons également à préciser que nous avons deux jeux de données car pour ```Julia``` nous avons fait un pré-traitement des données,
+contrairement à ```Python```où nous les traitons directement dans le code (les images sont les mêmes pour les deux programmes).
 
 Constatons les similitudes et les différences de ces deux langages.
 
@@ -51,4 +53,4 @@ notre problématique.
 ## Auteurs :
 Marion Borel, Bastien Gévaudan, Antoine Grancher & Julien Soufflet
 
-</div>
+</p>
