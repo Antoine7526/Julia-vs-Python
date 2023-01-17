@@ -1,6 +1,6 @@
 # Comparaison Julia, Python et R sur les CNN (Convutionnal Neural Network)
 
-<div style="text-align:justify;"> 
+<p style="text-align:justify;"> 
 
 ## Contexte du projet :
 Nous avons voulu confectionner un algorithme nous permettant de faire de la classification d'images.
@@ -53,4 +53,4 @@ notre problématique.
 ## Auteurs :
 Marion Borel, Bastien Gévaudan, Antoine Grancher & Julien Soufflet
 
-</div>
+</p>
